@@ -56,7 +56,7 @@ PRIVATE_KEY=your_private_key_here
 To start the script, run:
 
 ```bash
-node index.js
+npm run start
 ```
 
 ### Menu Options
