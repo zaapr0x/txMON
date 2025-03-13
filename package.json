@@ -1,0 +1,19 @@
+{
+  "name": "txmon",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "nodemon ./txMON/index.js",
+    "start": "node ./txMON/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "dotenv": "^16.4.7",
+    "prompt-sync": "^4.2.0",
+    "web3": "^4.16.0"
+  }
+}
