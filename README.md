@@ -1,7 +1,9 @@
 <p align="center">
   <img src="src/img/image.png" alt="txMON Logo" width="1000">
 </p>
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/zaapr0x/count.svg?"  />
+</div>
 # txMON
 
 **txMON** is an automated script for interacting with Monad blockchain dApps and smart contracts. This tool simplifies and automates interactions with Monad-based dApps.
