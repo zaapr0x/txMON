@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start:dev": "nodemon ./txMON/index.js",
-    "start": "node main.js"
+    "start": "node ./txMON/index.js"
   },
   "keywords": [],
   "author": "",
