@@ -71,12 +71,10 @@ The script provides a simple menu with the following options:
 
 The table below shows all currently supported and planned DApps for the txMON script:
 
-| Name    | Website                                                      | Category      | Features    | Status     |
-| ------- | ------------------------------------------------------------ | ------------- | ----------- | ---------- |
-| Monadex | [https://app.monadex.exchange](https://app.monadex.exchange) | DEX           | Token swaps | ✅ Active  |
-| Aprio   | [https://stake.apr.io](https://stake.apr.io)                 | Staking (LSD) | MON staking | ✅ Active  |
-| Shmonad | [https://www.shmonad.xyz](https://www.shmonad.xyz)           | Staking (LSD) | MON staking | ✅ Active  |
-| Kuru    | [https://www.kuru.io](https://www.kuru.io)               | DEX           | Token swaps | 🔜 Planned |
+| Name    | Website                                            | Category      | Features    | Status    |
+| ------- | -------------------------------------------------- | ------------- | ----------- | --------- |
+| Aprio   | [https://stake.apr.io](https://stake.apr.io)       | Staking (LSD) | MON staking | ✅ Active |
+| Shmonad | [https://www.shmonad.xyz](https://www.shmonad.xyz) | Staking (LSD) | MON staking | ✅ Active |
 
 ## Configuration
 
