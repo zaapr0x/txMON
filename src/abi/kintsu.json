@@ -1,0 +1,18 @@
+{
+  "contract": "0x07aabd925866e8353407e67c1d157836f7ad923e",
+  "abi": [
+    {
+      "type": "function",
+      "name": "stake",
+      "inputs": [],
+      "outputs": [
+        {
+          "name": "newShares",
+          "type": "uint128",
+          "internalType": "uint128"
+        }
+      ],
+      "stateMutability": "payable"
+    }
+  ]
+}
