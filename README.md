@@ -13,7 +13,6 @@
 <p align="center">
   <img src="src/img/preview.jpg" alt="txMON Logo" width="1000">
 </p>
-
 ## 🚀 Features
 
 - 🔄 **Automated token swaps**
@@ -117,11 +116,12 @@ node main.js
 
 The table below shows the currently supported and planned dApps for **txMON**:
 
-| Name        | Website                                            | Category      | Features    | Status    |
-| ----------- | -------------------------------------------------- | ------------- | ----------- | --------- |
-| **Aprio**   | [https://stake.apr.io](https://stake.apr.io)       | Staking (LSD) | MON staking | ✅ Active |
-| **Shmonad** | [https://www.shmonad.xyz](https://www.shmonad.xyz) | Staking (LSD) | MON staking | ✅ Active |
-| **Kintsu**  | [https://kintsu.xyz](https://kintsu.xyz)           | Staking (LSD) | MON staking | ✅ Active |
+| Name        | Website                                                        | Category      | Features    | Status    |
+| ----------- | -------------------------------------------------------------- | ------------- | ----------- | --------- |
+| **Aprio**   | [https://stake.apr.io](https://stake.apr.io)                   | Staking (LSD) | MON staking | ✅ Active |
+| **Shmonad** | [https://www.shmonad.xyz](https://www.shmonad.xyz)             | Staking (LSD) | MON staking | ✅ Active |
+| **Kintsu**  | [https://kintsu.xyz](https://kintsu.xyz)                       | Staking (LSD) | MON staking | ✅ Active |
+| **Monadex** | [https://app.monadex.exchange/](https://app.monadex.exchange/) | Staking (LSD) | MON staking | ✅ Active |
 
 ---
 
